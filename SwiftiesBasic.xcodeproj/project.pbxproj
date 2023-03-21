@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		46B849A329C9C7A200B465B9 /* SwiftiesBasic */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftiesBasic; sourceTree = BUILT_PRODUCTS_DIR; };
 		46B849A629C9C7A200B465B9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		46B849AD29C9C7D400B465B9 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		46B8499A29C9C7A200B465B9 = {
 			isa = PBXGroup;
 			children = (
+				46B849AD29C9C7D400B465B9 /* README.md */,
 				46B849A529C9C7A200B465B9 /* SwiftiesBasic */,
 				46B849A429C9C7A200B465B9 /* Products */,
 			);
